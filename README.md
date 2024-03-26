@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! 👋
+**I'm [Jia Long](https://xlbgh.github.io/), a software engineer and artificial intelligence student from Tilburg, the Netherlands**
 
-<!--
-**jialongbao/jialongbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 I'm currently educating myself on web development for a personal project
 
-Here are some ideas to get you started:
+💡 I'm primarily interested in **problem-solving** where I utilise technology, ranging from UX/UI to AI models, to create products that solve them
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Outside of my studies, I'm interested in following the developments of science and state-of-the-art technologies from Formula 1 to AI
+
+🧠 I also really enjoy deepdiving into videography, utilising visual and audio design to enhance the user experience
+
+**Let's connect!**
+
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jialongbao)
