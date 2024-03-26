@@ -3,7 +3,7 @@
 
 👨‍💻 I'm currently educating myself on web development for a personal project
 
-💡 I'm primarily interested in **problem-solving** where I utilise technology, ranging from UX/UI to AI models, to create products that solve them
+💡 I'm primarily interested in **user-centric problem solving** where I utilise technology, ranging from UX/UI to AI models, to create products that solve them
 
 🌍 Outside of my studies, I'm interested in following the developments of science and state-of-the-art technologies from Formula 1 to AI
 
