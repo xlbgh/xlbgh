@@ -5,6 +5,8 @@
 
 💡 I'm primarily interested in **user-centric data-driven problem solving** where I utilise technology, ranging from UX/UI to AI models, to create products that solve them
 
+🌱 I'm currently looking for career & growth opportunities in product management, UX/UI, data science and machine learning
+
 🌍 Outside of my studies, I'm interested in following the developments of science and state-of-the-art technologies from Formula 1 to AI
 
 🧠 I also really enjoy deepdiving into videography, utilising visual and audio design to enhance the user experience
