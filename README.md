@@ -3,7 +3,7 @@
 
 👨‍💻 I'm currently educating myself on web development for a personal project
 
-💡 I'm primarily interested in **user-centric data-driven problem solving** where I utilise technology, ranging from UX/UI to AI models, to create products that solve them
+💡 I'm primarily interested in **user-centric data-driven problem solving** where I utilise technology, from UX/UI to AI, to create products that solve them
 
 🌱 I'm currently looking for career & growth opportunities in product management, UX/UI, data science and machine learning
 
