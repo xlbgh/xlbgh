@@ -9,7 +9,7 @@
 
 🌍 Outside of my studies, I'm interested in following the developments of science and state-of-the-art technologies from Formula 1 to AI
 
-🧠 I also really enjoy deepdiving into videography, utilising visual and audio design to enhance the user experience
+🧠 I also really enjoy deepdiving into videography, utilising visual and audio design to enhance the user experience visually and emotionally
 
 **Let's connect!**
 
