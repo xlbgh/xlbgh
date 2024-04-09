@@ -5,7 +5,7 @@
 
 💡 I'm primarily interested in **user-centric data-driven problem solving** where I utilise technology, from UX/UI to AI, to create products that solve them
 
-🌱 I'm currently looking for career & growth opportunities in product management, UX/UI, data science and machine learning
+🌱 I'm currently looking for career & growth opportunities in product management, UX/UI, data science, machine learning and software development
 
 🌍 Outside of my studies, I'm interested in following the developments of science and state-of-the-art technologies from Formula 1 to AI
 
