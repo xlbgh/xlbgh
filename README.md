@@ -1,5 +1,5 @@
 ### Hi there! 👋
-**I'm [Jia Long](https://xlbgh.github.io/), a software engineer and artificial intelligence student from Tilburg, the Netherlands**
+**I'm [Jia Long](https://xlbgh.github.io/), an artificial intelligence student from Tilburg, the Netherlands**
 
 👨‍💻 I'm currently educating myself on web development for a personal project
 
