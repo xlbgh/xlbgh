@@ -9,7 +9,9 @@
 
 🌍 Outside of my studies, I'm interested in following the developments of science and state-of-the-art technologies from Formula 1 to AI
 
-🧠 I also really enjoy deepdiving into videography, utilising visual and audio design to enhance the user experience visually and emotionally
+🧠 I also enjoy spending my time deepdiving into videography, playing with visual and audio design to enhance the user experience visually and emotionally
+
+🍜 And a huge foodie, love to cook (and the food science behind it), trying out new dishes and share the joyful umami experience 
 
 **Let's connect!**
 
