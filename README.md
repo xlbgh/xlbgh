@@ -1,15 +1,13 @@
 ### Hi there! 👋
 **I'm [Jia Long](https://xlbgh.github.io/), an artificial intelligence & data science student in the Netherlands**
 
-👨‍💻 I'm currently educating myself on web development for a personal project
-
 💡 I'm primarily interested in **user-centric data-driven problem solving** where I utilise technology, from UX/UI to AI, to create products that solve them
 
-🌱 I'm currently looking for career & growth opportunities in product management, UX/UI, data science, machine learning and software development
+🌱 I'm currently looking for career & growth opportunities in product management, UX/UI, data science, machine learning and full stack development
 
-🌍 Outside of my studies, I'm interested in following the developments of science and state-of-the-art technologies from Formula 1 to AI
+🌍 Outside of my studies, I'm interested in following the developments of science and state-of-the-art technologies and science
 
-🧠 I also enjoy spending my time deepdiving into videography, playing with visual and audio design to enhance the user experience visually and emotionally
+🧠 I also enjoy spending my time deepdiving into cinematography and various sports
 
 **Let's connect!**
 
