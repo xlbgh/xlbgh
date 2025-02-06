@@ -5,7 +5,7 @@
 
 🌱 I'm currently looking for career & growth opportunities in strategy, product management, UX/UI, data science, machine learning and full stack development
 
-🌍 Outside of my studies, I'm interested in following the developments of science and state-of-the-art technologies and science
+🌍 Outside of my studies, I'm interested in following the developments of science and state-of-the-art technologies
 
 🧠 I also enjoy spending my time deepdiving into cinematography and various sports
 
